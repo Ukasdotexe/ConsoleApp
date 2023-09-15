@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVLD System", "DVLD System.csproj", "{587A0467-8BE2-47D3-A449-755E655DB45D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearClassLibrary", "..\..\Class Libraries\ClearClassLibrary\ClearClassLibrary.csproj", "{A3098A71-7C8C-4CD8-BB8F-452C254190CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{587A0467-8BE2-47D3-A449-755E655DB45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587A0467-8BE2-47D3-A449-755E655DB45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587A0467-8BE2-47D3-A449-755E655DB45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587A0467-8BE2-47D3-A449-755E655DB45D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3098A71-7C8C-4CD8-BB8F-452C254190CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3098A71-7C8C-4CD8-BB8F-452C254190CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3098A71-7C8C-4CD8-BB8F-452C254190CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3098A71-7C8C-4CD8-BB8F-452C254190CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {088AFABA-9C45-4C59-A1DE-D30EF3E92738}
+	EndGlobalSection
+EndGlobal
